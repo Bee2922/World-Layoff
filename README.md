@@ -1,1 +1,2 @@
-# World-Layoff
+World-Layoff
+This World layoff dataset captures the layoffs that took place across different industries across various countries of the world. The columns in these dataset include company names, location, industry, total_laid_off, percentage_laid_off, country and funds_raised_millions. These dataset was thoroughly cleaning using SQL and the attachment captures the data cleaning process that was taken
